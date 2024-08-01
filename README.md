@@ -8,6 +8,10 @@ It's Vladislav Zhukov's portfolio website. This repository contains the code of 
 
 Work in progress.
 
+## Features
+
+TBA
+
 ## Tree
 
 TBA
