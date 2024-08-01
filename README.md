@@ -4,9 +4,15 @@ Picture TBA
 
 ## Overview
 
-It's Vladislav Zhukov's portfolio website. This repository contains the code of my portolio website. 
+This repository contains the code of my portolio website. 
 
 Work in progress.
+
+## Technologies Used
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ## Features
 
@@ -16,10 +22,27 @@ TBA
 
 TBA
 
-## Technology stack
-The following portfolio was created using the following techniques:
+## Getting Started
 
-- [Visual Studio Code](https://code.visualstudio.com/) for Code
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Make sure you have the following installed:
 
+* [NodeJS](https://nodejs.org/en)
+* [npm](https://www.npmjs.com/)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KroxisTheDark/portfolio.git 
+   ```
+2. Navigate to the project directory: 
+   ```bash
+   cd portfolio 
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the project:
+   ```bash
+   npm run dev
+   ```
