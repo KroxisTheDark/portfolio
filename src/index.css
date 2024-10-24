@@ -3,11 +3,10 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: OpenSans;
-  src: url("./fonts/OpenSans_Condensed-Light.ttf") format("truetype");
 }
 
-html, body {
+html,
+body {
   scroll-behavior: smooth;
 }
 

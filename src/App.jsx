@@ -1,13 +1,12 @@
-import React from 'react'
-import './index.css'
+import React from "react";
+import "./index.css";
 
 function App() {
   return (
     <>
-      <div className=''>Привет! Я, Владислав🖐️</div>
-      <div className='text-green-800'>Я, front-end разработчик из России</div>
+      <div className="text-3xl text-green-950">Hello</div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
